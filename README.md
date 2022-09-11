@@ -13,6 +13,6 @@ This project is a Weather Dashboard which needed the following features:
 
 I know this project isn't done yet, but just being able to show a results page makes me feel good. I'll keep working on this project until it's fixed.
 
-Attached is a link to the deployed application : [https://preronam.github.io/WeatherDashboard/](https://sarahvaci.github.io/WeatherHelperApp/)
+Attached is a link to the deployed application : (https://sarahvaci.github.io/WeatherHelperApp/)
 
 <img width="1439" alt="WDashboard" src="Screen Shot 2022-09-11 at 12.30.40 AM.png">
