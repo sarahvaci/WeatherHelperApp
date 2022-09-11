@@ -3,7 +3,7 @@
 # WeatherDashboard
 Weather Dashboard displays the weather for a given city and provides a 5 day forecast
 
-This project is a Weather Dashboard which has the following features:
+This project is a Weather Dashboard which needed the following features:
 
 1. The application allows the user to search for any city and provides the current weather conditions for the user's search input
 2. The weather information provided to the user includes the temperature, the humidity, the windspeed, and the UV index for a given date
