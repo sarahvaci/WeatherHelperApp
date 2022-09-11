@@ -19,4 +19,4 @@ Attached is a link to the deployed application : (https://sarahvaci.github.io/We
 <img width="1439" alt="WDashboard" src="Screen Shot 2022-09-11 at 12.30.40 AM.png">
 
 ## resource
-Used information from a previous class assignment as a guide and as a source of ideas for how to set up CSS and HTML.
+Used information from the class mini-project assignment as a guide and as a source of ideas for how to set up CSS and HTML.
