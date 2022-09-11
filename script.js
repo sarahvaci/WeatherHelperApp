@@ -27,9 +27,6 @@ const showCity = async () => {
     const data = await response.json();
 
 
-//show city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index.
-//{"coord":{"lon":-0.1257,"lat":51.5085},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01n"}],"base":"stations","main":{"temp":286.49,"feels_like":286.36,"temp_min":284.46,"temp_max":288.15,"pressure":1018,"humidity":95},"visibility":10000,"wind":{"speed":1.03,"deg":350},"clouds":{"all":9},"dt":1662864690,"sys":{"type":2,"id":2075535,"country":"GB","sunrise":1662874131,"sunset":1662920753},"timezone":3600,"id":2643743,"name":"London","cod":200}
-
 console.log(data.weather);
 document.write(`weather: ${data.weather[0].description}
 <br> temperature: ${main.temp}
