@@ -11,6 +11,7 @@ This project is a Weather Dashboard which needed the following features:
 4. The application also stores the user's most recent search item after they close their browser
 5. Once the user reopens the application, they are able to view their last searched city and the corresponding weather conditions 
 
+Used information from a previous class project as a guide and as a source of ideas for how to set up CSS and HTML.
 I know this project isn't done yet, but just being able to show a results page makes me feel good. I'll keep working on this project until it's fixed.
 
 Attached is a link to the deployed application : (https://sarahvaci.github.io/WeatherHelperApp/)
