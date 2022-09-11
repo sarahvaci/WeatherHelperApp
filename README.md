@@ -1,6 +1,6 @@
 # WeatherHelperApp
 
-# WeatherDashboard
+
 Weather Dashboard displays the weather for a given city and provides a 5 day forecast
 
 This project is a Weather Dashboard which needed the following features:
